@@ -21,3 +21,4 @@ I have list of [wikis](https://github.com/rajivkanaujia/alphaworks/wiki) that re
     * [Configure PHP for Web Development using Eclipse](https://github.com/rajivkanaujia/alphaworks/wiki/Configure-PHP-for-Web-Development-using-Eclipse)
     * [Configure Eclipse for JavaScript (Node.js) development](https://github.com/rajivkanaujia/alphaworks/wiki/Configure-Eclipse-for-JavaScript-(Node.js)-development)
 13. [Handy Mac Commands](https://github.com/rajivkanaujia/alphaworks/wiki/Handy-Mac-Commands)
+14. [SSH Key: creation and validation](https://github.com/rajivkanaujia/alphaworks/wiki/SSH-Key-creation-and-validation)
