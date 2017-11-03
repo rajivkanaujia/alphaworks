@@ -23,3 +23,6 @@ I have list of [wikis](https://github.com/rajivkanaujia/alphaworks/wiki) that re
     * [Configure Eclipse for JavaScript (Node.js) development](https://github.com/rajivkanaujia/alphaworks/wiki/Configure-Eclipse-for-JavaScript-(Node.js)-development)
 14. [Handy Mac Commands](https://github.com/rajivkanaujia/alphaworks/wiki/Handy-Mac-Commands)
 15. [SSH Key: creation and validation](https://github.com/rajivkanaujia/alphaworks/wiki/SSH-Key-creation-and-validation)
+
+# Other Interesting stuff
+1. [Creating two partitions on a USB Disk using Mac](https://github.com/rajivkanaujia/alphaworks/wiki/Creating-two-partitions--on-a-USB-Disk-using-Mac)
