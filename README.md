@@ -24,6 +24,8 @@ I have list of [wikis](https://github.com/rajivkanaujia/alphaworks/wiki) that re
 14. [Handy Mac Commands](https://github.com/rajivkanaujia/alphaworks/wiki/Handy-Mac-Commands)
 15. [SSH Key: creation and validation](https://github.com/rajivkanaujia/alphaworks/wiki/SSH-Key-creation-and-validation)
 16. [Enable debugging in PHP via Xdebug](https://github.com/rajivkanaujia/alphaworks/wiki/Enable-debugging-in-PHP-via-Xdebug)
+17. [Using DiffMerge as external diff on SourceTree](https://github.com/rajivkanaujia/alphaworks/wiki/Using-DiffMerge-as-external-diff-on-SourceTree)
+18. [Using Git](https://github.com/rajivkanaujia/alphaworks/wiki/Using-Git)
 
 # Other Interesting stuff
 1. [Creating two partitions on a USB Disk using Mac](https://github.com/rajivkanaujia/alphaworks/wiki/Creating-two-partitions--on-a-USB-Disk-using-Mac)
