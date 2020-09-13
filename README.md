@@ -29,7 +29,7 @@ I have list of [wikis](https://github.com/rajivkanaujia/alphaworks/wiki) that re
 
 # Other Interesting stuff
 1. [Creating two partitions on a USB Disk using Mac](https://github.com/rajivkanaujia/alphaworks/wiki/Creating-two-partitions--on-a-USB-Disk-using-Mac)
-2. [Changing Mac zsh to bash] (https://github.com/rajivkanaujia/alphaworks/wiki/Changing-Mac-zsh-to-bash)
+2. [Changing Mac zsh to bash](https://github.com/rajivkanaujia/alphaworks/wiki/Changing-Mac-zsh-to-bash)
 3. [Using DiffMerge as external diff on SourceTree](https://github.com/rajivkanaujia/alphaworks/wiki/Using-DiffMerge-as-external-diff-on-SourceTree)
-4. [VLC Player config] (https://github.com/rajivkanaujia/alphaworks/wiki/VLC-Player-config)
+4. [VLC Player config](https://github.com/rajivkanaujia/alphaworks/wiki/VLC-Player-config)
 
