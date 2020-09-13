@@ -1,6 +1,6 @@
 # alphaworks
 In this repository, I keep my public facing work.
-My "stealth" work is located at [bitbucket](https://bitbucket.org/rajivkanaujia/).
+My "stealth" work is hidden in private repo
 
 # Documentation
 I have list of [wikis](https://github.com/rajivkanaujia/alphaworks/wiki) that readers might find useful.
@@ -29,3 +29,7 @@ I have list of [wikis](https://github.com/rajivkanaujia/alphaworks/wiki) that re
 
 # Other Interesting stuff
 1. [Creating two partitions on a USB Disk using Mac](https://github.com/rajivkanaujia/alphaworks/wiki/Creating-two-partitions--on-a-USB-Disk-using-Mac)
+2. [Changing Mac zsh to bash] (https://github.com/rajivkanaujia/alphaworks/wiki/Changing-Mac-zsh-to-bash)
+3. [Using DiffMerge as external diff on SourceTree](https://github.com/rajivkanaujia/alphaworks/wiki/Using-DiffMerge-as-external-diff-on-SourceTree)
+4. [VLC Player config] (https://github.com/rajivkanaujia/alphaworks/wiki/VLC-Player-config)
+
