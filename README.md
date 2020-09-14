@@ -22,15 +22,15 @@ I have list of [wikis](https://github.com/rajivkanaujia/alphaworks/wiki) that re
     * [Configure Apache for Web Development](https://github.com/rajivkanaujia/alphaworks/wiki/Configure-Apache-for-Web-Development)
     * [Configure PHP for Web Development using Eclipse](https://github.com/rajivkanaujia/alphaworks/wiki/Configure-PHP-for-Web-Development-using-Eclipse)
     * [Configure Eclipse for JavaScript (Node.js) development](https://github.com/rajivkanaujia/alphaworks/wiki/Configure-Eclipse-for-JavaScript-(Node.js)-development)
-15. [Handy Mac Commands](https://github.com/rajivkanaujia/alphaworks/wiki/Handy-Mac-Commands)
-16. [SSH Key: creation and validation](https://github.com/rajivkanaujia/alphaworks/wiki/SSH-Key-creation-and-validation)
-17. [Enable debugging in PHP via Xdebug](https://github.com/rajivkanaujia/alphaworks/wiki/Enable-debugging-in-PHP-via-Xdebug)
-18. [Using DiffMerge as external diff on SourceTree](https://github.com/rajivkanaujia/alphaworks/wiki/Using-DiffMerge-as-external-diff-on-SourceTree)
-19. [Using Git](https://github.com/rajivkanaujia/alphaworks/wiki/Using-Git)
+15. [SSH Key: creation and validation](https://github.com/rajivkanaujia/alphaworks/wiki/SSH-Key-creation-and-validation)
+16. [Enable debugging in PHP via Xdebug](https://github.com/rajivkanaujia/alphaworks/wiki/Enable-debugging-in-PHP-via-Xdebug)
+17. [Using DiffMerge as external diff on SourceTree](https://github.com/rajivkanaujia/alphaworks/wiki/Using-DiffMerge-as-external-diff-on-SourceTree)
+18. [Using Git](https://github.com/rajivkanaujia/alphaworks/wiki/Using-Git)
 
 # Other Interesting stuff
 1. [Creating two partitions on a USB Disk using Mac](https://github.com/rajivkanaujia/alphaworks/wiki/Creating-two-partitions--on-a-USB-Disk-using-Mac)
 2. [Changing Mac zsh to bash](https://github.com/rajivkanaujia/alphaworks/wiki/Changing-Mac-zsh-to-bash)
 3. [Using DiffMerge as external diff on SourceTree](https://github.com/rajivkanaujia/alphaworks/wiki/Using-DiffMerge-as-external-diff-on-SourceTree)
 4. [VLC Player config](https://github.com/rajivkanaujia/alphaworks/wiki/VLC-Player-config)
+5. [Handy Mac Commands](https://github.com/rajivkanaujia/alphaworks/wiki/Handy-Mac-Commands)
 
