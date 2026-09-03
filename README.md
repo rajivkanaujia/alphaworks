@@ -29,12 +29,12 @@ I have list of [wikis](https://github.com/rajivkanaujia/alphaworks/wiki) that re
 
 ## Running Ollama Locally
 
-A four-part guide to running Ollama on an Apple Silicon Mac, adding Open WebUI and Internet search, organizing Docker, and comparing models.
+[Running Ollama Locally](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally) is a four-section guide for an Apple Silicon Mac:
 
-1. [Part 1: Install Ollama and Open WebUI](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally-Part-1-Install-Ollama-and-Open-WebUI)
-2. [Part 2: Enable Internet Search](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally-Part-2-Enable-Internet-Search)
-3. [Part 3: Organize Docker](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally-Part-3-Organize-Docker)
-4. [Part 4: Use Multiple Models](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally-Part-4-Use-Multiple-Models)
+1. [Install Ollama and Open WebUI](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally#1-install-ollama-and-open-webui)
+2. [Enable Internet Search](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally#2-enable-internet-search)
+3. [Organize Docker](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally#3-organize-docker)
+4. [Use Multiple Models](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally#4-use-multiple-models)
 
 # Other Interesting stuff
 1. [Creating two partitions on a USB Disk using Mac](https://github.com/rajivkanaujia/alphaworks/wiki/Creating-two-partitions--on-a-USB-Disk-using-Mac)
