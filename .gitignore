@@ -1,0 +1,87 @@
+# ====================================================================
+# OPERATING SYSTEMS (Mac & Windows)
+# ====================================================================
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ====================================================================
+# PYTHON & AI / MACHINE LEARNING
+# ====================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (Crucial for keeping heavy ML environments out of Git)
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# AI / Data Science specific exclusions
+.ipynb_checkpoints/             # Jupyter Notebook checkpoints
+.chunks/
+*.h5                            # Heavy Model Weights (Keras/TensorFlow)
+*.pt                            # PyTorch Model Weights
+*.pth                           # PyTorch Model Weights
+*.onnx                          # Open Neural Network Exchange models
+*.pkl                           # Pickled data/models
+data/                           # Frequently used local data folders
+dataset/
+wandb/                          # Weights & Biases logging data
+
+# ====================================================================
+# JAVA
+# ====================================================================
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files (If you use local jars, uncomment if needed)
+# *.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Build tools output (Maven / Gradle)
+target/
+!.mvn/wrapper/maven-wrapper.jar
+build/
+.gradle/
+/build/
+
+# ====================================================================
+# IDE / EDITORS (VS Code & JetBrains)
+# ====================================================================
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
