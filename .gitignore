@@ -1,7 +1,7 @@
 # ====================================================================
-# OPERATING SYSTEMS (Mac & Windows)
+# OPERATING SYSTEMS (macOS & Windows)
 # ====================================================================
-# macOS files
+# macOS
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -9,7 +9,7 @@
 .Spotlight-V100
 .Trashes
 
-# Windows files
+# Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
@@ -24,64 +24,121 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual Environments (Crucial for keeping heavy ML environments out of Git)
+# Virtual environments
 .venv/
 venv/
 env/
 ENV/
-.env
 
-# AI / Data Science specific exclusions
-.ipynb_checkpoints/             # Jupyter Notebook checkpoints
+# AI / Data Science
+.ipynb_checkpoints/
 .chunks/
-*.h5                            # Heavy Model Weights (Keras/TensorFlow)
-*.pt                            # PyTorch Model Weights
-*.pth                           # PyTorch Model Weights
-*.onnx                          # Open Neural Network Exchange models
-*.pkl                           # Pickled data/models
-data/                           # Frequently used local data folders
+*.h5                # Keras/TensorFlow weights
+*.pt                # PyTorch weights
+*.pth                # PyTorch weights
+*.onnx               # ONNX models
+*.pkl                # Pickled data/models
+data/
 dataset/
-wandb/                          # Weights & Biases logging data
+wandb/                # Weights & Biases logs
 
 # ====================================================================
 # JAVA
 # ====================================================================
-# Compiled class file
 *.class
+*.ctxt               # BlueJ files
+.mtj.tmp/             # Mobile Tools for Java (J2ME)
 
-# Log files
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files (If you use local jars, uncomment if needed)
-# *.jar
+# Package files
 *.war
 *.nar
 *.ear
 *.zip
 *.tar.gz
 *.rar
+# *.jar               # uncomment if you don't commit local jars
 
-# Build tools output (Maven / Gradle)
+# Build tools (Maven / Gradle)
 target/
 !.mvn/wrapper/maven-wrapper.jar
 build/
 .gradle/
-/build/
 
 # ====================================================================
-# IDE / EDITORS (VS Code & JetBrains)
+# NODE.JS / JAVASCRIPT / TYPESCRIPT
 # ====================================================================
+node_modules/
+dist/
+dist-ssr/
+.output/
+
+# ====================================================================
+# FRAMEWORK & DEV TOOL CACHES
+# ====================================================================
+.nitro/
+.vinxi/
+.tanstack/**
+.wrangler/            # Cloudflare / serverless dev
+
+# ====================================================================
+# IDE / EDITORS
+# ====================================================================
+# VS Code
+.history/
 .vscode/
 !.vscode/extensions.json
+
+# JetBrains
 .idea/
+
+# Visual Studio / misc
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.swp
+*.sw?
+
+# Misc editor/tooling artifacts
+reports/
+.history
+
+# ====================================================================
+# LOGS
+# ====================================================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.layout.log
+*.manifest.log
+/logs/
+/log/
+logs/
+
+# ====================================================================
+# DOCKER RUNTIME & VOLUME DATA
+# ====================================================================
+.docker-data/
+docker-volumes/
+pgdata/
+mysql_data/
+.docker-desktop/
+docker-compose.override.yml   # local compose overrides not meant to be shared
+
+# ====================================================================
+# SECRETS & ENVIRONMENT VARIABLES
+# ====================================================================
+.env
+.env*.local
+*.local
+.dev.vars
+*.pem
+*.key
+secrets/
+
+# Local Docker configuration that can contain credentials or generated keys
+docker/**/.env
+docker/**/core-config/settings.yml
