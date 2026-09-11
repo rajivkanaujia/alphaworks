@@ -12,6 +12,9 @@ I have list of [wikis](https://github.com/rajivkanaujia/alphaworks/wiki) that re
 3. [Organize Docker](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally#3-organize-docker)
 4. [Use Multiple Models](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-Locally#4-use-multiple-models)
 
+## Running ComfyUI Locally for Image generation
+[Running ComfyUI Locally](https://github.com/rajivkanaujia/alphaworks/wiki/Running-Ollama-ComfyUI-Locally) on an Apple Silicon Mac.
+
 # General Documentation
 1. [Installing Homebrew](https://github.com/rajivkanaujia/alphaworks/wiki/Installing-Homebrew)
 2. [SSH Key: creation and validation](https://github.com/rajivkanaujia/alphaworks/wiki/SSH-Key-creation-and-validation)
